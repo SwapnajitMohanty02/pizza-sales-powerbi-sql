@@ -1,38 +1,43 @@
-🍕 Pizza Sales Analysis Project
-📌 Project Overview
+# 🍕 Pizza Sales Analysis Project
+
+## 📌 Project Overview
 
 This project focuses on analyzing pizza sales data to uncover business insights, customer ordering patterns, and revenue drivers.
 Using SQL for data transformation and optimization and Power BI for visualization, the project demonstrates a complete analytics workflow — from raw data to decision-ready dashboards.
 
 The analysis helps stakeholders understand when customers order, what they order, and how sales vary across time, categories, and pizza sizes.
 
-🎯 Project Objectives
+---
 
-Analyze overall sales performance using key business KPIs
+## 🎯 Project Objectives
 
-Identify top-performing and underperforming pizzas
+- Analyze overall sales performance using key business KPIs
 
-Understand customer ordering behavior by time, day, and month
+- Identify top-performing and underperforming pizzas
 
-Optimize SQL queries for better performance and scalability
+- Understand customer ordering behavior by time, day, and month
 
-Build interactive Power BI dashboards for clear storytelling
+- Optimize SQL queries for better performance and scalability
 
-📊 Key KPIs Tracked
+- Build interactive Power BI dashboards for clear storytelling
 
-Total Revenue: 817.86K
+---
 
-Total Orders: 21K
+## 📊 Key KPIs Tracked
 
-Total Pizzas Sold: ~50K
+- Total Revenue: 817.86K
 
-Average Order Value: 38.31
+- Total Orders: 21K
 
-Average Pizzas per Order: 2.32
+- Total Pizzas Sold: ~50K
 
-🔍 Key Insights & Findings
+- Average Order Value: 38.31
 
-🕒 Time-Based Insights
+- Average Pizzas per Order: 2.32
+
+## 🔍 Key Insights & Findings
+
+### 🕒 Time-Based Insights
 
 Evening hours contribute nearly 50% of total quantity sold, making it the most critical time slot
 
@@ -40,7 +45,7 @@ July is the peak demand month, while September and October show a noticeable dip
 
 Fridays record the highest order volume, indicating strong weekend demand
 
-🍕 Product Performance
+### 🍕 Product Performance
 
 Large pizzas generate the highest revenue, followed by Medium sizes
 
@@ -48,25 +53,19 @@ Classic category is the top seller with ~15K pizzas sold
 
 Chicken category performs well in revenue, despite lower volume than Classic
 
-🏆 Top & Bottom Performers
+### 🏆 Top & Bottom Performers
 
-Top Pizza by Orders:
+Top Pizza by Orders: The Classic Deluxe Pizza
 
-The Classic Deluxe Pizza
+Highest Revenue Pizza: The Barbecue Chicken Pizza
 
-Highest Revenue Pizza:
-
-The Barbecue Chicken Pizza
-
-Lowest Order Volume:
-
-The Brie Carre Pizza
+Lowest Order Volume: The Brie Carre Pizza
 
 This contrast highlights that high revenue does not always mean high order volume, emphasizing pricing and size impact.
 
-📈 Dashboard Overview
+## 📈 Dashboard Overview
 
-📌 Dashboard 1 – Business Performance Summary
+### 📌 Dashboard 1 – Business Performance Summary
 
 Revenue & order KPIs
 
@@ -78,7 +77,7 @@ Orders by weekday and month
 
 Category-wise quantity analysis
 
-📌 Dashboard 2 – Product-Level Analysis
+### 📌 Dashboard 2 – Product-Level Analysis
 
 Top 5 and Bottom 5 pizzas by total orders
 
@@ -86,7 +85,7 @@ Comparison of orders, revenue, and quantity sold
 
 Helps identify items for promotion, optimization, or discontinuation
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 SQL – Data cleaning, aggregation, joins, window functions
 
@@ -94,7 +93,7 @@ Optimized SQL Queries – Improved performance using indexing and structured que
 
 Power BI – Interactive dashboards & visual storytelling
 
-🗂 Project Structure
+## 🗂 Project Structure
 📁 Pizza-Sales-Analysis
  ├── 📄 pizza_sales.sql        # Raw SQL queries
  ├── 📄 data_modeling.sql      # Optimized & structured queries
@@ -103,7 +102,7 @@ Power BI – Interactive dashboards & visual storytelling
  │    └── Dashboard_2.png
  └── 📄 README.md
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Increase staffing and inventory during evening hours and Fridays
 
@@ -115,7 +114,7 @@ Re-evaluate low-performing pizzas for recipe improvement or targeted discounts
 
 Run seasonal campaigns during low-demand months (Sep–Oct)
 
-🚀 What This Project Demonstrates
+## 🚀 What This Project Demonstrates
 
 Practical SQL optimization skills
 
