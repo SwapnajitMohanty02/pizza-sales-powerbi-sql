@@ -99,20 +99,6 @@ Optimized SQL Queries – Improved performance using indexing and structured que
 
 Power BI – Interactive dashboards & visual storytelling
 
-## 🗂 Project Structure
-📁 Pizza-Sales-Analysis
-
- ├── 📄 pizza_sales.sql       # Raw SQL queries
- 
- ├── 📄 data_modeling.sql       # Optimized & structured queries
-
- ├── 📁 PowerBI_Dashboard
- 
- │    ├── Dashboard_1.png
- 
- │    └── Dashboard_2.png
- 
- └── 📄 README.md
 
 ## 💡 Business Recommendations
 
